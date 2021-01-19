@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>learning-zen.com</id>
+    <title>学习之阐</title>
+    <updated>2021-01-19T15:46:09.026Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="learning-zen.com"/>
+    <link rel="self" href="learning-zen.com/atom.xml"/>
+    <rights>All rights reserved 2021, 学习之阐</rights>
+</feed>
